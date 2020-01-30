@@ -1,0 +1,12 @@
+Wajib Resolusi: 1024x768
+Cara pertama,
+1. masuk folder pb dan ganti melalui PBconfig.exe (ukuran pilih 1024x768)
+2. Cara kedua atau masuk pb tanpa cit dulu dan klik pengaturan ganti resolusi tersebut. (1024x768)
+(rekomendasi bisa windows mode dengan layar seperti itu)
+
+Cit ini akan merubah tanggal pc/laptop kalian ke tanggal 24 november 2019 
+jika tidak berubah silahkan ganti tanggal pc 24 november secara manual agar tidak muncul expired
+
+Hotkey mode, fiture check pada gambar hotkey.jpg
+
+download cit di www.citpekalongan.com
